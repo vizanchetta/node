@@ -1,0 +1,3 @@
+# Just a file that specifies which files are gonna be ignored by the source control
+
+/node_modules
